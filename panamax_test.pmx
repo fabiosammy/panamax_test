@@ -1,0 +1,10 @@
+---
+name: panamax_test
+description: Trying panamax new template
+keywords: test
+type: Default
+documentation: ''
+images:
+- name: dockerfile_haproxy_latest
+  source: dockerfile/haproxy:latest
+  type: Default
